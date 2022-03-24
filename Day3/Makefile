@@ -1,2 +1,2 @@
 default:
-	g++ main3.cpp -o adventofcode
+	g++ main3.cpp -o adventofcodeDay3
