@@ -1,2 +1,2 @@
 default:
-	g++ -o adventofcode main.cpp
+	g++ -o day4 day4.cpp
