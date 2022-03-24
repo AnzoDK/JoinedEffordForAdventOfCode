@@ -1,2 +1,2 @@
 default:
-	g++ -o adventofcode main.cpp
+	g++ main3.cpp -o adventofcode
